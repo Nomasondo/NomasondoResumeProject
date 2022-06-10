@@ -1,0 +1,74 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+    background-color: white;
+    display: flex;
+    
+    flex-direction: column;
+    }
+    header{
+        text-align: center;
+        justify-content: center;
+        color: white;
+    
+    }
+    #Profileimage{
+    width: 150px;
+    height:150px;
+    border-radius:75px;
+    }
+    .headings{
+    background-color: burlywood;
+    color: white;
+    }
+    #heading{
+    background-color:burlywood;
+    background-color: ;
+    }
+    #contentheader{
+    color: white;
+    }
+    #sidelist{
+    background-color: burlywood;
+    width: 20%;
+    }
+    .contentlist{
+    list-style-type: none;
+    color: absolute;
+    }
+    .main{
+        background-color:beige;
+        display: flex;
+        flex-direction: row;
+        overflow: unset;
+    
+    }
+    
+    
+    footer{
+    background-color:burlywood;
+    text-align: center;
+    color: white;
+    
+    }
+    
+    
+    .imageicons{
+    width:20px;
+    height:20px;
+    border-radius:10px;
+    margin: 0.1rem;
+    
+    
+    }
+
+
+    .Qualifications{
+        text-align:left;
+        color:rgba(194, 135, 76, 0.721);   
+    
+    }
+    .workexperience{
+        text-align:left;
+        color:rgba(194, 135, 76, 0.721);   
+    }
